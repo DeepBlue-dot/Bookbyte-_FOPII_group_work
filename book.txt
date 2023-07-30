@@ -1,0 +1,30 @@
+To Kill a Mockingbird
+Harper Lee
+Fiction
+9780446310789 
+1960
+true
+The Catcher in the Rye
+J.D. Salinger
+Fiction 
+9780316769174
+1951
+false
+The Great Gatsby
+F. Scott Fitzgerald
+Fiction
+9780743273565
+1925
+true
+1984
+George Orwell
+Science Fiction/Dystopian Fiction
+9780451524935
+1949
+false
+Harry Potter and the Philosopher's Stone
+J.K. Rowling
+Fantasy
+9780747532743
+1997
+true
