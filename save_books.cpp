@@ -11,6 +11,7 @@ void save_books(int& num, Book books[])
         fout << books[i].ISBN << endl;
         fout << books[i].Publication_year << endl;
         fout << books[i].status << endl;
+        fout << books[i].due_date << endl;
     }
     fout.close();  
 }
