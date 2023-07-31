@@ -8,13 +8,13 @@ void update_book(int& num, Book books[])
     void borrowers(int &num, Book books[]);
     cout<<"Choose a book and enter its book number ";
     cin>>n;
-    if n < num
+    if (n>=1 && n < num)
     {
       cout<<" choose 1 to borrow or else to cancel"<<endl ;
       cin>>status;
-      if status=='1';
+      if (status=='1');
       {
-           books[n-1].status="borrowed"
+           books[n-1].status="borrowed";
            getline(cin,due_date);
       }
       else
