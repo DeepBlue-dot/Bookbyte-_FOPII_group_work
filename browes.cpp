@@ -2,6 +2,7 @@
 
 void browes(int& num, Book books[])
 {
+    //test
     int n=0;
     string custom_genre;
     cout << "Browse\n" << "\t1.All books\n" << "\t2.Fiction\n" << "\t3.Non-fiction\n" << "\t4.Custom\n";
@@ -42,7 +43,7 @@ void browes(int& num, Book books[])
             {
                 if(books[i].Genre==custom_genre)
                 {
-                    cout <<"Book "<<i+1<<endl;
+                    cout <<"Book " << i+1 << endl;
                     display( books[i]);
                 }
             }
