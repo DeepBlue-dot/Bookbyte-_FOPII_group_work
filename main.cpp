@@ -13,7 +13,7 @@ int main(void)
         cout << "4.Adminstration" << endl;
         cout << "5.Exit" << endl;
         cin >> choice;
-        system("cls");
+        system("clear");
         switch (choice)
         {
             case 1:
@@ -29,7 +29,7 @@ int main(void)
                 cout << "1.Add a book" << endl;
                 cout << "2.Update a book" << endl;
                 cin >> choice;
-                system("cls");
+                system("clear");
                 switch (choice)
                 {
                     case 1:
@@ -50,6 +50,8 @@ int main(void)
             
             default:
                 cout << "Invalid Input" << endl;
+                cin.clear();
+                cin.ignore(numeric_limits<streamsize>::max(), '\n');
                 break;
         }
     } while (true);  

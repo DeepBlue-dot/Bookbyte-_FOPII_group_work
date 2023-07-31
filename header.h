@@ -5,6 +5,7 @@
 #include <fstream>
 #include <ctime>
 #include <string>
+#include<limits>
 
 using namespace std;
 
@@ -24,7 +25,7 @@ void save_books(int&, Book[]);
 void browes(int&, Book[]);
 void reccomendation(int&, Book []);
 void load_book(int&, Book[]);
-void search(int&, Book[]);
+int search(int&, Book[]);
 void add_book(int&, Book[]);
 void update_book(int&, Book[]);
 
