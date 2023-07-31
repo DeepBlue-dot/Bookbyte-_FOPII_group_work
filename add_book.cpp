@@ -9,6 +9,7 @@ void add_book(int& num, Book books[])
     cout<<"How many books do you want to add?";
     cin>>N_book;
     cout<<"\t\tPlease fill these informations:"<<endl;
+    //ask the user to fullfill info about the books
    for(int i=0;i<N_book;i++){
         cout<<"Book "<<num+1<<" :"<<endl;
         cout<<"\t\tTitle: ";
