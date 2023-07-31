@@ -33,3 +33,38 @@ Fantasy
 1997
 true
 none
+Pride and Prejudice
+ane Austen
+Romance
+9780141439518
+1813
+true
+none
+The Lord of the Rings
+J.R.R. Tolkien
+Fantasy
+9780618640157
+1954
+true
+none
+The Diary of a Young Girl
+Anne Frank
+Autobiography
+9780553296983
+1947
+true
+none
+The Hitchhiker's Guide to the Galaxy
+Douglas Adams
+Science Fiction/Comedy
+9780345391803
+1979
+true
+none
+The Hunger Games
+Suzanne Collins
+Science Fiction/Dystopian Fiction
+9780439023481
+2008
+true
+none
