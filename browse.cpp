@@ -1,6 +1,6 @@
 #include "header.h"
 
-void browes(int& num, Book books[])
+void browse(int& num, Book books[])
 {
     //test
     int n=0;

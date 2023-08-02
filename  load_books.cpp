@@ -29,6 +29,7 @@ void load_book(int&num, Book books[])
     {
         ofstream fout("book.txt");
         fout.close();
+        cout << "There are no book!!" << endl;
         add_book(num, books);
     }
 }

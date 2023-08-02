@@ -22,7 +22,7 @@ struct  Book
 
 void display(Book&);
 void save_books(int&, Book[]);
-void browes(int&, Book[]);
+void browse(int&, Book[]);
 void reccomendation(int&, Book []);
 void load_book(int&, Book[]);
 int search(int&, Book[]);

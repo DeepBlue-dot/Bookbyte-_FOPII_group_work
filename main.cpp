@@ -20,7 +20,7 @@ int main(void)
                 reccomendation(num_books, books);
                 break;
             case 2:
-                browes(num_books, books);
+                browse(num_books, books);
                 break;
             case 3:
                 search(num_books, books);
